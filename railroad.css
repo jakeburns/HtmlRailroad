@@ -4,4 +4,9 @@ h1{
 
 body{
 	background: rgb(100, 150, 100);
+
+}
+
+#Diagram{
+	line-height: 0.1px;
 }
